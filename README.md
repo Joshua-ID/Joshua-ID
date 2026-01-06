@@ -6,11 +6,12 @@
 <div align="center">
   
   <h1>Hi, I'm Joshua Idara 👌</h1>
-  <h3>Frontend Web & Mobile Developer (React Native) • Vue & React Specialist • Building Beautiful Web & Mobile Experiences</h3>
-
+  
   <a href="https://github.com/Joshua-ID">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=43D9AD&center=true&vCenter=true&width=600&lines=Crafting+responsive+UIs;Architecting+Vue+ecosystems;Shipping+React+Native+apps;Optimizing+frontend+performance;Exploring+backend+integration" alt="Typing SVG" />
   </a>
+  
+  <h3>Frontend Web & Mobile Developer (React Native) • Vue & React Specialist • Building Beautiful Web & Mobile Experiences</h3>
 
 </div>
 
@@ -27,9 +28,10 @@
 - 📱 Building **cross-platform mobile apps** with **React Native** — performance, UX, and clean state management are non-negotiable
 
 - 🚀 Recently shipped:  
+  → **[Med-Lab Survey Management](https://github.com/Joshua-ID/Med-Lab-Survey-Management)** — Authenticated Vue app with role-based access  
+  → **[Personal Portfolio](https://github.com/Joshua-ID/Personal-Portfolio)** — Showcasing dynamic Vue UIs, API integrations & event systems
   → **[Swiss Hub](https://github.com/Joshua-ID/swiss-hub)** — E-Learning platform to assist techies, role-based access
-  → **[Personal Portfolio V1](https://github.com/Joshua-ID/Personal-Portfolio)** — Showcasing dynamic Vue UIs, API integrations & event systems
-  → **[Med-Lab Survey Management](https://github.com/Joshua-ID/Med-Lab-Survey-Management)** — Authenticated Vue app with role-based access:
+
   
 🔜 **Actively exploring**:  
   - Backend fundamentals (Node.js, RESTful APIs)  
