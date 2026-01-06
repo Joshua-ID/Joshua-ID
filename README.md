@@ -27,10 +27,10 @@
 - ✨ **Currently focused** on **scalable frontend architecture** using **Vue 3 (Composition API)** and **React (with TypeScript)**
 - 📱 Building **cross-platform mobile apps** with **React Native** — performance, UX, and clean state management are non-negotiable
 
-- 🚀 Recently shipped:  
-  → **[Med-Lab Survey Management](https://github.com/Joshua-ID/Med-Lab-Survey-Management)** — Authenticated Vue app with role-based access  
-  → **[Personal Portfolio](https://github.com/Joshua-ID/Personal-Portfolio)** — Showcasing dynamic Vue UIs, API integrations & event systems  
-  → **[Swiss Hub](https://github.com/Joshua-ID/swiss-hub)** — E-Learning platform to assist techies, role-based access
+- 🚀 Recently shipped:
+  → **[Swiss Hub](https://swisshub.qzz.io)** — E-Learning platform to assist techies, role-based access  
+  → **[Curated Books](https://curatebooks.vercel.app)** — Authenticated book platform  
+  → **[Personal Portfolio](https://github.com/Joshua-ID/Personal-Portfolio)** — Showcasing dynamic Vue UIs, API integrations & event systems
 
   
 🔜 **Actively exploring**:  
