@@ -12,13 +12,12 @@
   </a>
   
   <h3>Frontend Web & Mobile Developer (React Native) • Vue & React Specialist • Building Beautiful Web & Mobile Experiences</h3>
-
-</div>
-
+       
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue-009688?style=for-the-badge&logo=vue&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+</div>
 
 
 ---
