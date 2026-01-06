@@ -27,10 +27,10 @@
 - 📱 Building **cross-platform mobile apps** with **React Native** — performance, UX, and clean state management are non-negotiable
 
 - 🚀 Recently shipped:  
-  → **[Swiss Hub](https://github.com/Joshua-ID/swiss-hub)** — E-Learning platform to assist techies, role-based access: 
-  → **[Personal Portfolio V1](https://github.com/Joshua-ID/Personal-Portfolio)** — Showcasing dynamic Vue UIs, API integrations & event systems:
+  → **[Swiss Hub](https://github.com/Joshua-ID/swiss-hub)** — E-Learning platform to assist techies, role-based access
+  → **[Personal Portfolio V1](https://github.com/Joshua-ID/Personal-Portfolio)** — Showcasing dynamic Vue UIs, API integrations & event systems
   → **[Med-Lab Survey Management](https://github.com/Joshua-ID/Med-Lab-Survey-Management)** — Authenticated Vue app with role-based access:
-
+  
 🔜 **Actively exploring**:  
   - Backend fundamentals (Node.js, RESTful APIs)  
   - Testing: Vitest, Cypress, React Native Detox  
