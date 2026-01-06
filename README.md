@@ -29,7 +29,7 @@
 
 - 🚀 Recently shipped:  
   → **[Med-Lab Survey Management](https://github.com/Joshua-ID/Med-Lab-Survey-Management)** — Authenticated Vue app with role-based access  
-  → **[Personal Portfolio](https://github.com/Joshua-ID/Personal-Portfolio)** — Showcasing dynamic Vue UIs, API integrations & event systems
+  → **[Personal Portfolio](https://github.com/Joshua-ID/Personal-Portfolio)** — Showcasing dynamic Vue UIs, API integrations & event systems  
   → **[Swiss Hub](https://github.com/Joshua-ID/swiss-hub)** — E-Learning platform to assist techies, role-based access
 
   
